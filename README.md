@@ -197,8 +197,13 @@ void play_mario_theme(void) {
   /* USER CODE END 3 */
 ```
 
-## 가습기도 가능할까?
+마리오 노래 동영상 
 
-<img width="300" height="300" alt="128" src="https://github.com/user-attachments/assets/624c29d0-d512-4d49-ab3b-6123507a595a" />
-<br>
+https://github.com/user-attachments/assets/f0f11399-4371-4964-ae2f-c3c89d45bf99
+
+하울의 움직이는 성 ost 인생의 회전목마 노래 동영상 
+
+https://github.com/user-attachments/assets/436cc057-b91b-4ce0-a563-553af41a48cd
+
+
 
